@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-workshop",
+  "version": "0.0.0",
+  "description": "nodejs web app workshop",
+  "main": "lib/server.coffee",
+  "scripts": {
+    "test": "cake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rashfael/nodejs-workshop.git"
+  },
+  "author": "rashfael",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.0.0rc4"
+  }
+}
