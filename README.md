@@ -17,6 +17,10 @@ Scope:
 
 ### World Wide Web
 
+open a chrome, request a website, watch dev console
+- HTTP
+- view source
+
 ## javascript language basics
 	- jsbasics.js
 
@@ -102,7 +106,7 @@ top features:
 
 	install:
 		sudo npm -g install git://github.com/jashkenas/coffee-script.git
-		sudo npm -g install mocha brunch (for windows, path variable)
+		sudo npm -g install brunch (for windows, path variable)
 
 	local install:
 		npm install express
@@ -131,3 +135,62 @@ server.coffee.1
 	
 ### server side template
 views/layout.jade , index.jade
+
+
+### web app
+- brunch
+- backbone
+- chaplin
+
+### initialize web app
+global dependencies
+- brunch
+- coffee
+- nodemon
+
+	brunch new --skeleton asdasd my-app
+	cd my-app
+	cake watch (calls "brunch watch" and "nodemon")
+
+
+### your links are in another castle
+[node.js](http://nodejs.org) - native evented v8 runtime
+[mongodb](http://mongodb.org) - NoSQL Database
+
+####
+[jade](http://jade-lang.com/) - html templating
+
+[brunch](http://brunch.io) - deploy all the things
+[backbone](http://documentcloud.github.com/backbone/) - MVC base framework
+[chaplin](https://github.com/chaplinjs/chaplin) - backbone based MVC framework
+[bootstrap](http://twitter.github.com/bootstrap/) - skeleton css fancyness and effects
+[mongoose](http://mongoosejs.com/) - mongodb ORM 
+
+### bullshit bingo
+AJAX
+Web 2.0
+Agil
+App
+NoSQL
+Social Graph
+REST
+CRUD
+Websocket
+Test Driven
+Event Loop
+Community
+Cloud
+Web Service
+HTML5
+CSS3
+API
+Canvas
+Ponies
+Standard
+Mobile
+Ubiquitous
+Geolocation
+Open Source
+User Experience
+Dynamic
+Semantic Web
