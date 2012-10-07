@@ -159,21 +159,14 @@ global dependencies
 
 
 ### your links are in another castle
-[node.js](http://nodejs.org) - native evented v8 runtime
-
-[mongodb](http://mongodb.org) - NoSQL Database
-
-[jade](http://jade-lang.com/) - html templating
-
-[brunch](http://brunch.io) - deploy all the things
-
-[backbone](http://documentcloud.github.com/backbone/) - MVC base framework
-
-[chaplin](https://github.com/chaplinjs/chaplin) - backbone based MVC framework
-
-[bootstrap](http://twitter.github.com/bootstrap/) - skeleton css fancyness and effects
-
-[mongoose](http://mongoosejs.com/) - mongodb ORM 
+[node.js](http://nodejs.org) - native evented v8 runtime  
+[mongodb](http://mongodb.org) - NoSQL Database  
+[jade](http://jade-lang.com/) - html templating  
+[brunch](http://brunch.io) - deploy all the things  
+[backbone](http://documentcloud.github.com/backbone/) - MVC base framework  
+[chaplin](https://github.com/chaplinjs/chaplin) - backbone based MVC framework  
+[bootstrap](http://twitter.github.com/bootstrap/) - skeleton css fancyness and effects  
+[mongoose](http://mongoosejs.com/) - mongodb ORM  
 
 ### bullshit bingo
 AJAX
