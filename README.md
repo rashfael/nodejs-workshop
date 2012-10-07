@@ -1,28 +1,30 @@
-nodejs-workshop
-===============
+# nodejs-workshop
 
 Scope:
-	- javascript language basics
-	- nodejs basics
 
-	- coffeescript introduction
-	- full web stack
-		- express
-		- brunch
-		- backbone
-		- chaplin
-		- jade
-		- stylus
-		- cake / mocha
+- javascript language basics
+- nodejs basics
 
-### World Wide Web
+- coffeescript introduction
+- full web stack
+	- express
+	- brunch
+	- backbone
+	- chaplin
+	- jade
+	- stylus
+	- cake / mocha
+
+## World Wide Web
 
 open a chrome, request a website, watch dev console
+
 - HTTP
 - view source
 
 ## javascript language basics
-	- jsbasics.js
+
+	jsbasics.js
 
 ## bullshitbingo
 
@@ -62,7 +64,7 @@ in node repl
 
 http server
 
- - world wide web, what is http
+- world wide web, what is http
 
 serve simple text
 
@@ -102,18 +104,21 @@ top features:
 
 ### module system
 
-	- npm
+#### npm
 
-	install:
-		sudo npm -g install git://github.com/jashkenas/coffee-script.git
-		sudo npm -g install brunch (for windows, path variable)
+install:
 
-	local install:
-		npm install express
+	sudo npm -g install git://github.com/jashkenas/coffee-script.git
+	sudo npm -g install brunch (for windows, path variable)
 
-	- package.json
-		npm init
-		npm install express --save
+local install:
+
+	npm install express
+
+#### package.json
+
+	npm init
+	npm install express --save
 
 ### require - module loading
 
@@ -124,11 +129,11 @@ top features:
 server.coffee.1
 
 ### HTML
-	- Beschreibungssprache
-	- XMLlig
-	- <TAGNAME attr1='val1'>content</TAGNAME>
-	- baumartig aufgebaut
-	- ein paar tags, h1-6, p, a, div, span
+- Beschreibungssprache
+- XMLlig
+- <TAGNAME attr1='val1'>content</TAGNAME>
+- baumartig aufgebaut
+- ein paar tags, h1-6, p, a, div, span
 
 ### DOM
 	- baumartige darstellung
@@ -155,15 +160,19 @@ global dependencies
 
 ### your links are in another castle
 [node.js](http://nodejs.org) - native evented v8 runtime
+
 [mongodb](http://mongodb.org) - NoSQL Database
 
-####
 [jade](http://jade-lang.com/) - html templating
 
 [brunch](http://brunch.io) - deploy all the things
+
 [backbone](http://documentcloud.github.com/backbone/) - MVC base framework
+
 [chaplin](https://github.com/chaplinjs/chaplin) - backbone based MVC framework
+
 [bootstrap](http://twitter.github.com/bootstrap/) - skeleton css fancyness and effects
+
 [mongoose](http://mongoosejs.com/) - mongodb ORM 
 
 ### bullshit bingo
