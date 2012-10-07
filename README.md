@@ -143,22 +143,30 @@ views/layout.jade , index.jade
 
 
 ### web app
+
 - brunch
 - backbone
 - chaplin
 
 ### initialize web app
+
 global dependencies
+
 - brunch
 - coffee
 - nodemon
 
-	brunch new --skeleton asdasd my-app
-	cd my-app
+create new project
+
+	brunch new --skeleton https://github.com/rashfael/brunch-webapp.git my-app
+	
+build project and run server (inside new project directory)
+
 	cake watch (calls "brunch watch" and "nodemon")
 
 
 ### your links are in another castle
+
 [node.js](http://nodejs.org) - native evented v8 runtime  
 [mongodb](http://mongodb.org) - NoSQL Database  
 [jade](http://jade-lang.com/) - html templating  
