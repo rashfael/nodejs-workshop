@@ -108,8 +108,7 @@ top features:
 
 install:
 
-	sudo npm -g install git://github.com/jashkenas/coffee-script.git
-	sudo npm -g install brunch (for windows, path variable)
+	sudo npm -g install coffee-script brunch nodemon forever (for windows, path variable)
 
 local install:
 
